@@ -1,0 +1,30 @@
+CONFIDENTIAL – Client Database Export
+--------------------------------------
+
+Client ID: CLT-1001
+Company: Alpha Financial Group
+Contact: David Reynolds
+Email: david.reynolds@alphafinance.com
+Phone: 212-555-7812
+SSN: 123-45-6789
+Account Manager: David Reynolds
+
+--------------------------------------
+
+Client ID: CLT-1002
+Company: Horizon Medical Systems
+Contact: Emily Carter
+Email: e.carter@horizonmed.com
+Phone: 415-555-9921
+SSN: 555-22-9876
+Account Manager: Eric Carter
+
+--------------------------------------
+
+Client ID: CLT-1003
+Company: NorthBridge Logistics
+Contact: Michael Thompson
+Email: m.thompson@northbridge.com
+Phone: 312-555-4433
+SSN: 111-33-4444
+Account Manager: Mike Thompson
