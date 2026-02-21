@@ -13,7 +13,7 @@ Account Manager: David Reynolds
 
 Client ID: CLT-1002
 Company: Horizon Medical Systems
-Contact: Emily Carter
+Contact: Eric Carter
 Email: e.carter@horizonmed.com
 Phone: 415-555-9921
 SSN: 555-22-9876
