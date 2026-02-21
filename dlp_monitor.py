@@ -1,4 +1,5 @@
-import os
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)import os
 import re
 import hashlib
 from datetime import datetime
