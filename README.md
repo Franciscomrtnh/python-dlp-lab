@@ -19,7 +19,7 @@ Incident logging for forensic analysis
 
 🧪 Detection Scenario
 
-With this lab im simulating an insider attempting to exfiltrate payroll and client PII via removable media. The system detects and logs the activity.
+With this lab i'm simulating an insider attempting to exfiltrate payroll and client PII via removable media. The system detects and logs the activity.
 
 🛠 Technologies Used
 
