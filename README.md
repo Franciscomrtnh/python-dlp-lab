@@ -40,3 +40,7 @@ Incident detection & logging
 Insider threat simulation
 
 Blue Team monitoring techniques
+
+### 🔎 Detection Example
+
+![DLP Detection](docs/dlp-detection.png)
